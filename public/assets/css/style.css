@@ -1033,8 +1033,8 @@ button.bg-danger:hover {
 .nav-tabs.nav-tabs-solid > .active > a,
 .nav-tabs.nav-tabs-solid > .active > a:hover,
 .nav-tabs.nav-tabs-solid > .active > a:focus {
-	background-color: #00d0f1;
-	border-color: #00d0f1;
+	background-color: #f3ebeb;
+	border-color: #f8ebeb;
 	color: #fff;
 }
 .tab-content {
@@ -1388,8 +1388,8 @@ button.bg-danger:hover {
 -----------------------*/
 
 .header {
-	background: #fff;
-	border-bottom: 1px solid #f0f0f0;
+	background: #049499;
+	border-bottom: 1px solid #025255;
 	left: 0;
 	position: fixed;
 	right: 0;
